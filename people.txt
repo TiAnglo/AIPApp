@@ -1,0 +1,6 @@
+Helena = 4371
+Talita = 5583
+Bruna = 7770
+Roni = 8275
+Julio = 9002
+Mayara = 771
